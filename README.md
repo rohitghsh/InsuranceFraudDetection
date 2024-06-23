@@ -1,12 +1,13 @@
 # Insurance Fraud Detection
 
-## Guided by : Dr. Dave Wanik - OPIM 5512: Data Science Using Python - University of Connecticut
+## Guided by : 
+Dr. Dave Wanik - OPIM 5512: Data Science Using Python - University of Connecticut
 
+## Challenge: 
 This dataset comes from the 2023 NESS Statathon (Theme 1). Here is a link to where the live competition was hosted!
 
 https://www.kaggle.com/competitions/2023-travelers-ness-statathon/overview
 
-## Challenge: 
 You work for Travelers Insurance Company's fraud detection department as a modeler. Your colleagues, who are not familiar with statistics, would like you to create a predictive model based on historical claim data. Your team is concerned about the fraud detection accuracy as well as the key drivers that cause fraudulence.
 For this case competition, I was tasked with identifying first-party physical damage fraudulence and explaining the indicators of fraudulent claims.
 
