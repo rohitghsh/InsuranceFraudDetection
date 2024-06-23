@@ -13,11 +13,8 @@ For this case competition, I was tasked with identifying first-party physical da
 
 
 ## Dataset Description
-All first-party physical damage claims will be filtered by claim handlers and some of them will be referred to the fraud detection team. Your data is a sample of these referred claims from 2015 to 2016.
+All first-party physical damage claims will be filtered by claim handlers and some of them will be referred to the fraud detection team. The data is a sample of these referred claims from 2015 to 2016.
 
-As a simplification, I am just going to work with the train dataset (linked below). This is because it has the answers! All teams will use the same random_seed to split the data into train and test - Dave will do this part for you. You may not delete rows in the test partition, use transform() to update rows in test partition, you can do almost anything you want on the train partition. If there is data leakage, you automatically go into last place (more on that later.)
-
-Your work is to build a model on the training data and apply your model to predict the fraud indicator for each claim in the test data.
 
 ## Variable Descriptions
 
