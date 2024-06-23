@@ -1,4 +1,4 @@
-# InsuranceFraudDetection
+# Insurance Fraud Detection
 
 Dr. Dave Wanik - OPIM 5512: Data Science Using Python - University of Connecticut
 
