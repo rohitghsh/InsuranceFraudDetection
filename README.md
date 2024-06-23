@@ -59,8 +59,13 @@ policy_report_filed_ind - Policy report filed indicator
 claim_est_payout - Estimated claim payout
 
 age_of_vehicle - Age of first party vehicle
+
 vehicle_category - Category of first party vehicle
+
 vehicle_price - Price of first party vehicle
+
 vehicle_color - Color of first party vehicle
+
 vehicle_weight - Weight of first party vehicle
+
 fraud - Fraud indicator (0=no, 1=yes). This is the response variable.
